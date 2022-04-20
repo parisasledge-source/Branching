@@ -1,6 +1,10 @@
 ## Git Cheat Sheet
 
 Overview
+Hey this is the newBranch stuff
+
+Git rocks!
+more text here.
 
 ### Basic Commands
 * `git init` - initialization a local git repo
